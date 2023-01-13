@@ -3,20 +3,18 @@
   "version": "9.1.0",
   "description": "Webix UI",
   "main": "spreadsheet.js",
+  "types": "types/spreadsheet.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/t-webix/spreadsheet.git"
-  },
   "keywords": [
-    "webix"
+    "webix",
+    "ui",
+    "widgets"
   ],
-  "author": "XB Software",
-  "license": "SEE LICENSE IN license.text",
-  "bugs": {
-    "url": "https://github.com/t-webix/spreadsheet/issues"
+  "publishConfig":{
+    "registry":"https://npm.webix.com"
   },
-  "homepage": "https://github.com/t-webix/spreadsheet#readme"
+  "author": "XB Software",
+  "license": "SEE LICENSE IN license.text"
 }
