@@ -1,0 +1,22 @@
+{
+  "name": "@xbs/spreadsheet",
+  "version": "9.1.0",
+  "description": "Webix UI",
+  "main": "spreadsheet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-webix/spreadsheet.git"
+  },
+  "keywords": [
+    "webix"
+  ],
+  "author": "XB Software",
+  "license": "SEE LICENSE IN license.text",
+  "bugs": {
+    "url": "https://github.com/t-webix/spreadsheet/issues"
+  },
+  "homepage": "https://github.com/t-webix/spreadsheet#readme"
+}
